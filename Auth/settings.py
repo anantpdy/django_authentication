@@ -56,7 +56,7 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'Auth.urls'
-
+#vffdd
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
