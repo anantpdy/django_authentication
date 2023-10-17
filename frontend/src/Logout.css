@@ -1,0 +1,20 @@
+/* Logout.css */
+
+.logout-page {
+    text-align:end;
+    padding: 20px;
+  }
+  
+  button {
+    background-color: #d9534f; /* Button background color */
+    color: #fff; /* Button text color */
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #c9302c; /* Button background color on hover */
+  }
+  

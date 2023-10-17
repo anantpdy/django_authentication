@@ -1,0 +1,28 @@
+/* Navbar.css */
+
+nav {
+    background-color: #333; /* Navbar background color */
+    color: #fff; /* Navbar text color */
+    padding: 10px;
+  }
+  
+  ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  li {
+    padding: 10px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #fff; /* Link text color */
+    font-weight: bold;
+  }
+  
+  a:hover {
+    text-decoration: underline; /* Underline links on hover */
+  }
+  
